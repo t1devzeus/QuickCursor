@@ -16,9 +16,31 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 ## Installation
 
-1. Download the installer for your operating system from the [Releases](https://github.com/yourusername/QuickCursor/releases) page.
-2. Run the installer and follow the on-screen instructions.
-3. Launch QuickCursor from your applications menu or desktop shortcut.
+1. Download the `.dmg` file from the [Releases](https://github.com/t1devzeus/QuickCursor/releases/) page.  
+2. Open the `.dmg` file and drag the application located in the middle to your **Applications** folder.  
+3. Launch **QuickCursor** from your Applications menu, Finder, or directly from the `.dmg` file.  
+
+### Note:
+- **Supported OS:** macOS 10.13 or higher  
+- **Security Warning:** Sometimes, you may see the following messages:
+  - *"QuickCursor cannot be opened because the developer cannot be verified."*  
+  - *"Apple could not verify that QuickCursor is free of malware that may harm your Mac or compromise your privacy."*  
+  - Don't worry—this application is safe and does not contain any malicious malware. You can review the source code yourself in the [main folder](https://github.com/t1devzeus/QuickCursor).  
+  - To bypass this warning, follow Apple’s official guide: [Apple Support](https://support.apple.com/en-gb/guide/mac-help/mchleab3a043/mac)  
+
+---
+
+### Fixing Permissions Issue:
+If the application doesn't work after launching, you might need to give it permission to control your mouse and monitor your screen.
+
+1. On your Mac, choose **Apple menu > System Settings**, then click **Privacy & Security** in the sidebar (you may need to scroll down).  
+2. Scroll down to **Accessibility**, then click it. You should see **QuickCursor** listed. Turn the switch on.  
+   - If **QuickCursor** is not listed, click the **+** button in the bottom-left corner, find the app, and add it.  
+3. Next, go to **Input Monitoring** and repeat the same steps to enable QuickCursor.  
+4. Restart **QuickCursor** to apply the changes.  
+
+![Screenshot 2025-03-22 at 08 26 03](https://github.com/user-attachments/assets/d3e0f8bd-1668-43cf-a681-2a75eec19c83)
+
 
 ## Contributing
 
