@@ -12,8 +12,8 @@ mouse_controller = Controller()
 saved_positions = []
 last_position = None
 last_move_time = None
-hold_time = 1  # Time threshold in seconds
-move_threshold = 10  # Pixels to consider as movement
+hold_time = 1 
+move_threshold = 10  
 is_running = True
 
 # Create the main window
@@ -31,7 +31,7 @@ def update_listbox():
     position_listbox.delete(0, tk.END)
     for pos in saved_positions:
         position_listbox.insert(tk.END, f"X: {pos[0]}, Y: {pos[1]}")
-    # Restore the previous selection if it exists
+
     if current_selection:
         position_listbox.selection_set(current_selection)
 
