@@ -27,6 +27,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
   - *"Apple could not verify that QuickCursor is free of malware that may harm your Mac or compromise your privacy."*  
   - Don't worry—this application is safe and does not contain any malicious malware. You can review the source code yourself in the [main folder](https://github.com/t1devzeus/QuickCursor).  
   - To bypass this warning, follow Apple’s official guide: [Apple Support](https://support.apple.com/en-gb/guide/mac-help/mchleab3a043/mac)  
+![Screenshot 2025-03-22 at 08 26 03](https://github.com/user-attachments/assets/d3e0f8bd-1668-43cf-a681-2a75eec19c83)
 
 ---
 
@@ -38,8 +39,6 @@ If the application doesn't work after launching, you might need to give it permi
    - If **QuickCursor** is not listed, click the **+** button in the bottom-left corner, find the app, and add it.  
 3. Next, go to **Input Monitoring** and repeat the same steps to enable QuickCursor.  
 4. Restart **QuickCursor** to apply the changes.  
-
-![Screenshot 2025-03-22 at 08 26 03](https://github.com/user-attachments/assets/d3e0f8bd-1668-43cf-a681-2a75eec19c83)
 
 
 ## Contributing
